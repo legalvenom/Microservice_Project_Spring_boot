@@ -4,7 +4,7 @@
 The Flight Management System enables administrators to manage airports, airplanes, and flights, while allowing customers to search for and book flights, with automatic seat confirmation or waiting queue placement, and provides booking history for both customers and admins.
 
 
-The video is attached and is called Video_of_project.mp4. you have to download it to see the video
+**NOTE: The video is attached and is called Video_of_project.mp4. you have to download it to see the video**
 
 ## Requirements
 
