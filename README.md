@@ -36,10 +36,10 @@ git clone https://github.com/your-username/FMS-SpringBoot-Backend.git
 ### API Endpoints
 -Here are some example API endpoints :
 
--POST /flights - Create a new flight
--GET /flights - Retrieve a list of all available flights
--GET /flights/{id} - Retrieve details of a flight by its ID
--POST /bookings - Create a new booking for a flight
--GET /bookings - Retrieve a list of all bookings
--GET /bookings/{id} - Retrieve booking details by its ID
+-**POST /flights - Create a new flight**
+-**GET /flights - Retrieve a list of all available flights**
+-**GET /flights/{id} - Retrieve details of a flight by its ID**
+-**POST /bookings - Create a new booking for a flight**
+-**GET /bookings - Retrieve a list of all bookings**
+-**GET /bookings/{id} - Retrieve booking details by its ID**
 
