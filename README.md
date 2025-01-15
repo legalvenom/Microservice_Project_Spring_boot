@@ -1,7 +1,8 @@
 # Microservice_Project_Spring_boot
 # Flight Management System 
 
-This project is the backend of the **Flight Management System (FMS)** built using **Spring Boot**. It provides services related to flight scheduling, booking, and passenger management, offering a simple REST API for front-end integration.
+Flight Reservation System 
+The video is attached and is called Video_of_project.mp4
 
 ## Requirements
 
