@@ -23,10 +23,10 @@ git clone https://github.com/your-username/FMS-SpringBoot-Backend.git
 ```
 
 - **Install Angular CLI if not already installed in your system.**
-- **Run npm install in the cmd line in the Frontend directory of the project.**
-- **Then, run ng serve command.**
+- **Run ```npm install``` in the cmd line in the Frontend directory of the project.**
+- **Then, run ```ng serve``` command.**
 
 - **Then in backend directory**
-- **run mvn clean install**
-- **mvn spring-boot:run**
+- **run ```mvn clean install```**
+- **```mvn spring-boot:run```**
 
